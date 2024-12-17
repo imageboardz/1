@@ -181,9 +181,9 @@ r#"<!doctype html>
     </p>
 
     <div style="text-align:center; margin-top:10px;">
-        <a href="https://4chess.com/">COM</a> | 
-        <a href="https://4chess.net/">NET</a> |
-        <a href="https://4chess.org/">ORG</a>
+        <a href="https://example.com/">COM</a> | 
+        <a href="https://example.net/">NET</a> |
+        <a href="https://example.org/">ORG</a>
     </div>
 </footer>
 
